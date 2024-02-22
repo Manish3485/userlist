@@ -1,0 +1,27 @@
+form {
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+    border: 0;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f3f3;
+}
+input{
+    height: 35px;
+    width: 96%;
+    margin-bottom: 20px;
+    padding: 5px 15px;
+    border: 1px solid #e5e1e1;
+    display: block;
+}
+button{
+    width: 100%;
+    padding: 15px 20px;
+    background-color: #ffb129;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    border: 0;
+}
